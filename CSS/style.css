@@ -299,6 +299,10 @@ section {
     transition: all 0.3s ease;
 }
 
+#skills .skills-tree .tree-list .list-item:last-child {
+    padding: 1rem 2rem 2rem;
+}
+
 #skills .skills-tree .tree-list .list-item .item-header {
     display: flex;
     align-items: center;
